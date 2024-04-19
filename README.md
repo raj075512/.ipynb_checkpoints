@@ -1,7 +1,8 @@
 PipeLines- >>
 
 1.data-formation of stock releted headlines for prediction of stock(nifty-50) vis web scrapping .
-  1.1  **nifty** data from (  **timesofindia** - website )
+
+  1.1  **nifty** data from (  **timesofindia** - website )<br>
   1.2  **economy** data from ( **moneycontrol** website )
   1.3  **mutualFund** data from ( moneycontrol website )
   1.4  **ipo** data from ( moneycontrol website )
