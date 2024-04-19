@@ -14,4 +14,7 @@ PipeLines- >>
   1.10 **market_min** data from ( moneycontrol website )<br>
   1.11 **election2024** data from ( moneycontrol website )<br>
 
+
+  ![Screenshot (380)](https://github.com/raj075512/.ipynb_checkpoints/assets/91281709/4d9d3d0d-a4e0-4cb5-8313-0f2a02320a97)
+
   
