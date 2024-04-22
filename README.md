@@ -16,11 +16,11 @@ PipeLines- >>
   1.11 **election2024** data from ( moneycontrol website )<br>
   1.12  adding the random() dynamic generated depended target (y) variables 
 
-2. DATA-PREPROCESSING  <br><br>
+2. DATA-PREPROCESSING  <br>
   
   2.1  make the new list of data_review -> merge the first row all sentence into it and store it, into data_review (list)
   <br>
-  2.2 insert this into column and after intersrting it into column , preporcessing the whole data_review(final data) -> with <br> (a) lower_case <br>  (b) only aplebetical <br> (c) stopwords <br> (d) lemmatization
+  2.2  insert this into column and after intersrting it into column , preporcessing the whole data_review(final data) -> with <br> (a) lower_case <br>  (b) only aplebetical <br> (c) stopwords <br> (d) lemmatization
   <br>
   2.3 seperate depended varibles and independed variables 
   <br>
@@ -29,7 +29,7 @@ PipeLines- >>
 3. feature -extration part
    <br>
    3.1 train-test-split (4:1)  <br>
-   3.2 vectorizer (count and tfidf) <br><br>
+   3.2 vectorizer (count and tfidf)<br>
 
 4. apply NLP MODEL <br><br>
    4.1 logistic regression calssification model<br>
