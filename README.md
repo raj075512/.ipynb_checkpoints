@@ -20,10 +20,10 @@ PipeLines- >>
   
   2.1  make the new list of data_review -> merge the first row all sentence into it and store it, into data_review (list)
   <br>
-  2.2 insert this into column and after intersrting it into column , preporcessing the whole data_review(final data) -> with (a) lower_case (b) only aplebetical (c) stopwords (d) lemmatization
+  2.2 insert this into column and after intersrting it into column , preporcessing the whole data_review(final data) -> with <br> (a) lower_case <br>  (b) only aplebetical <br> (c) stopwords <br> (d) lemmatization
   <br>
   2.3 seperate depended varibles and independed variables 
-  <br><br> <br>
+  <br>
 
  
 3. feature -extration part
@@ -35,7 +35,7 @@ PipeLines- >>
    4.1 logistic regression calssification model<br>
        (a) using count vectorizer - get accuracy - 50%<br>
        (b) using tfidf vectorizer - get accuracy - 55%<br>
-       <br> <br>
+       <br> 
    4.1 NAIVE - BAYES  MODEL<br>
         both count vectorize as well as tfidf vectorizer
 
