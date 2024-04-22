@@ -14,9 +14,9 @@ PipeLines- >>
   1.9  **morning_trade** data from ( moneycontrol website )<br>
   1.10 **market_min** data from ( moneycontrol website )<br>
   1.11 **election2024** data from ( moneycontrol website )<br>
-  1.12  adding the random() dynamic generated depended target (y) variables <br>
+  1.12  adding the random() dynamic generated depended target (y) variables 
 
-2. data-prepocessing part <br><br>
+2. DATA-PREPROCESSING  <br><br>
   
   2.1  make the new list of data_review -> merge the first row all sentence into it and store it, into data_review (list)
   <br>
