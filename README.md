@@ -1,4 +1,7 @@
-outcomes -> 
+
+![Screenshot (393)](https://github.com/raj075512/.ipynb_checkpoints/assets/91281709/a6abede6-159a-4156-8a79-f114c9590350)
+
+
 
 
 **PipeLines**- >>
@@ -31,17 +34,18 @@ outcomes ->
    3.1 train-test-split (4:1)  <br>
    3.2 vectorizer (count and tfidf)<br>
 
-4. **apply NLP MODEL **<br><br>
+4. **apply NLP MODEL**<br><br>
    4.1 **logistic regression** calssification model<br>
        (a) using count vectorizer - get accuracy - 50%<br>
        (b) using tfidf vectorizer - get accuracy - 55%<br>
-       <br> 
-   4.2 NAIVE - BAYES  MODEL<br>
-        both count vectorize as well as tfidf vectorizer
-         <br>
-   4.3 PASSIVE AGGRESSIVE CLASSIFIER (tfidf vectorizer)<br>
+       
+   4.2 **NAIVE - BAYES**  MODEL<br>
+        both count vectorize as well as tfidf vectorizer<br>
+   4.3 **PASSIVE AGGRESSIVE CLASSIFIER** (tfidf vectorizer)<br>
        accuracy with bi-gram-56 %<br>
-       accuracy with tri gram -60% 
+       accuracy with tri gram -60% <br>
+   4.4 **Random forest classifier**<br>
+       got accuracy with 60% 
        
 
   
