@@ -36,10 +36,13 @@ PipeLines- >>
        (a) using count vectorizer - get accuracy - 50%<br>
        (b) using tfidf vectorizer - get accuracy - 55%<br>
        <br> 
-   4.1 NAIVE - BAYES  MODEL<br>
+   4.2 NAIVE - BAYES  MODEL<br>
         both count vectorize as well as tfidf vectorizer
-
-   
+         <br>
+   4.3 PASSIVE AGGRESSIVE CLASSIFIER (tfidf vectorizer)<br>
+       accuracy with bi-gram-56 %<br>
+       accuracy with tri gram -60% 
+       
 
   
   
